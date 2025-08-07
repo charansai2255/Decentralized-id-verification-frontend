@@ -2,11 +2,12 @@
 A blockchain-based decentralized identity (DID) verification system designed for secure, privacy-preserving digital identity management. This project removes reliance on centralized authorities by leveraging smart contracts, IPFS, and blockchain to ensure transparency, immutability, and user-controlled identity.
 
 
-# Features
-✅User-controlled DID management
-✅Blockchain-based identity verification
-✅IPFS for secure storage
-✅React + Django full-stack architecture
+## Features  
+- ✅ User-controlled DID management  
+- ✅ Blockchain-based identity verification  
+- ✅ IPFS for secure storage  
+- ✅ React + Django full-stack architecture  
+
 
 # Tech Stack
 Frontend: React.js
@@ -35,3 +36,4 @@ npm start
 4️⃣ Open in browser:
 
 http://localhost:3000
+
