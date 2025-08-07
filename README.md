@@ -11,10 +11,10 @@ A blockchain-based decentralized identity (DID) verification system designed for
 
 
 # Tech Stack
--Frontend: React.js
--Backend: Python Django
--Blockchain: (e.g., Ethereum/Polygon) with smart contracts
--Databases: PostgreSQL + IPFS
+- Frontend: React.js
+- Backend: Python Django
+- Blockchain: (e.g., Ethereum/Polygon) with smart contracts
+- Databases: PostgreSQL + IPFS
 
 
 # 📦 Setup & Installation
@@ -37,6 +37,7 @@ npm start
 4️⃣ Open in browser:
 
 http://localhost:3000
+
 
 
 
