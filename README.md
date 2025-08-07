@@ -1,4 +1,5 @@
-# 🐶 Dog Breed Classifier Frontend
+# Decentralized Id Verification Frontend
+
 A blockchain-based decentralized identity (DID) verification system designed for secure, privacy-preserving digital identity management. This project removes reliance on centralized authorities by leveraging smart contracts, IPFS, and blockchain to ensure transparency, immutability, and user-controlled identity.
 
 
@@ -36,4 +37,5 @@ npm start
 4️⃣ Open in browser:
 
 http://localhost:3000
+
 
