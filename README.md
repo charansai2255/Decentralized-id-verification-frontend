@@ -21,8 +21,8 @@ Databases: PostgreSQL + IPFS
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/charansai2255/Decentralized-id-verification-frontend.git
-cd Decentralized-id-verification-frontend
+- git clone https://github.com/charansai2255/Decentralized-id-verification-frontend.git
+- cd Decentralized-id-verification-frontend
 
 2️⃣ Install dependencies:
 
@@ -37,5 +37,6 @@ npm start
 4️⃣ Open in browser:
 
 http://localhost:3000
+
 
 
